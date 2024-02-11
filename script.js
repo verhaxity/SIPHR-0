@@ -1,4 +1,4 @@
-gsap.from(".nav-logo, .navlinks > a", 1.5, {
+gsap.from(".nav-logo, .nav-links > a", 1.5, {
     top:"30px",
     opacity: 0,
     ease: "power4.inOut",
