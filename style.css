@@ -103,13 +103,15 @@ body{
 }
 
 .pattern{
+    color: #fff;
     text-align: center;
     padding: 1em 0em;
-    letter-spacing: 10px;
+    letter-spacing: 50px;
     opacity: 0.2;
 }
 
 .copy p{
+    color: #fff;
     font-family: "Monument Extended";
     font-size: 10px;
     font-weight: 300;
