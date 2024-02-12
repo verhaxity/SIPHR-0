@@ -25,6 +25,10 @@ body{
     font-family: "Monument Extended";
 }
 
+.nav-logo:hover{
+    cursor: pointer;
+}
+
 .nav >  *{
     color: #fff;
     position: relative;
@@ -103,6 +107,10 @@ body{
     color:#fff;
 }
 
+.play-btn:hover{
+    cursor: pointer;
+}
+
 .pattern{
     color: #fff;
     text-align: center;
@@ -139,7 +147,7 @@ body{
     padding: 0.4em 0.8em;
     border-radius: 20px;
     font-family: "Monument Extended";
-    font-size: 10px;
+    font-size: 11px;
     font-weight: 300;
 }
 
@@ -190,6 +198,10 @@ body{
     font-size: 40px;
     color: #fff;
     transform: rotate(-45deg);
+}
+
+.arrow:hover{
+    cursor: pointer;
 }
 
 .marquee{
