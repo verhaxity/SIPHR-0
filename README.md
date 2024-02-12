@@ -14,3 +14,5 @@ Technologies used in the project:
 *   CSS
 *   JS
 *   GSAP
+
+<a href="https://verhaxity.github.io/SIPHR-0/">Live</a>
