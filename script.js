@@ -1,3 +1,12 @@
+function SIPHR() {
+    window.open("https://www.instagram.com/siphr.in/",
+            ""); 
+};
+
+function reload() {
+    window.location.reload();
+}
+
 gsap.from(".nav-logo, .nav-links > a", 1.5, {
     top:"30px",
     opacity: 0,
