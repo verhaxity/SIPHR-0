@@ -16,3 +16,6 @@ Technologies used in the project:
 *   GSAP
 
 <a href="https://verhaxity.github.io/SIPHR-0/">Live</a>
+
+<h2>INSPIRATION: </h2>
+<img src="" />
