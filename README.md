@@ -18,4 +18,4 @@ Technologies used in the project:
 <a href="https://verhaxity.github.io/SIPHR-0/">Live</a>
 
 <h2>INSPIRATION: </h2>
-<img src="https://dribbble.com/shots/19365923-Das-Gr-ne-Creative-Design-Agency-Landing-Page-Website">
+<img src="[https://dribbble.com/shots/19365923-Das-Gr-ne-Creative-Design-Agency-Landing-Page-Website](https://cdn.dribbble.com/userupload/3537346/file/original-a21f8fa25aaf13526fe11e0d94271d1d.png?resize=1024x768)https://cdn.dribbble.com/userupload/3537346/file/original-a21f8fa25aaf13526fe11e0d94271d1d.png?resize=1024x768">
